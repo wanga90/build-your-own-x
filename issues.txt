@@ -1,0 +1,10 @@
+Implement basic SELECT parser
+Add tokenizer for SQL queries
+Support WHERE clause parsing
+Implement simple query executor
+Add table schema representation
+Support INSERT statements
+Add unit tests for parser
+Implement error handling for invalid SQL
+Optimize query execution flow
+Add CLI interface for running queries
