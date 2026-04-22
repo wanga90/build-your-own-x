@@ -1,0 +1,1 @@
+Working on: Add friendly CLI error exit codes
