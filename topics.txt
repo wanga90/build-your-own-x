@@ -1,0 +1,104 @@
+Implement tokenizer for SQL keywords
+Add token support for identifiers
+Add token support for string literals
+Add token support for numeric literals
+Implement parser for SELECT statements
+Implement parser for FROM clause
+Implement parser for WHERE clause
+Implement parser for INSERT statements
+Implement parser for CREATE TABLE
+Implement AST node definitions
+Add schema representation
+Add in-memory table storage
+Implement row insertion
+Implement basic table scan
+Implement simple WHERE filtering
+Add equality operator support
+Add inequality operator support
+Add LIMIT clause support
+Add ORDER BY parsing
+Add ORDER BY execution
+Implement projection selection
+Add basic type checking
+Add parser error messages
+Add executor error messages
+Implement CLI entry point
+Add REPL loop
+Add command help output
+Add unit tests for tokenizer
+Add unit tests for parser
+Add unit tests for executor
+Add integration test for SELECT
+Add integration test for INSERT
+Add integration test for CREATE TABLE
+Refactor tokenizer into module
+Refactor parser into module
+Refactor executor into module
+Add logging for query execution
+Add benchmark for tokenizer
+Add benchmark for parser
+Add benchmark for executor
+Support AND conditions
+Support OR conditions
+Add NULL value handling
+Add simple planner abstraction
+Add table metadata registry
+Persist schema to disk
+Persist rows to disk
+Add file format versioning
+Add startup database loading
+Add database shutdown flush
+Support DELETE statements
+Support UPDATE statements
+Add parser support for aliases
+Add wildcard SELECT *
+Add column resolution checks
+Add duplicate column detection
+Add duplicate table detection
+Add invalid syntax fixtures
+Add README quickstart section
+Add architecture overview doc
+Add contribution guide
+Add Makefile for common commands
+Add linting configuration
+Add formatting configuration
+Add pre-commit hooks
+Add CI workflow for tests
+Add CI workflow for linting
+Add issue templates
+Add PR template
+Document AST design
+Document execution pipeline
+Document storage model
+Add sample SQL files
+Add explain-style debug output
+Add configuration file support
+Support comments in SQL input
+Add semicolon handling
+Add multi-statement parsing guard
+Add reserved keyword validation
+Add identifier escaping
+Add transaction stub API
+Add test fixtures directory
+Improve branch coverage
+Add mutation test experiment
+Add edge case tests for whitespace
+Add edge case tests for casing
+Add edge case tests for empty input
+Add friendly CLI error exit codes
+Add version command
+Add query timing output
+Add developer setup script
+Add Dockerfile
+Add docker-compose for dev
+Add release script
+Add changelog generator
+Add sample dataset loader
+Add seed command
+Add metadata inspection command
+Add table listing command
+Add describe table command
+Add smoke test script
+Refactor code for smaller modules
+Improve naming consistency
+Remove dead code and unused paths
